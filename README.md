@@ -77,10 +77,24 @@ const prityanshu = {
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/prityanshu-singh"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30"/></a>
-  <a href="https://github.com/PrityanshuSingh"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="30"/></a>
-  <a href="mailto:prityanshusingh2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30"/></a>
-  <a href="https://linktr.ee/prityanshusingh"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&color=43E660&logoColor=white&style=for-the-badge" height="30"/></a>
+  <a href="https://linkedin.com/in/prityanshu-singh" title="Let's connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://github.com/PrityanshuSingh" title="Check out my GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:prityanshusingh2003@gmail.com" title="Shoot me an email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://linktr.ee/prityanshusingh" title="Explore my links">
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" height="30"/>
+  </a>
+  <a href="https://x.com/PrityanshuSingh" title="Follow me on Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
+  </a>
+  <a href="https://discordapp.com/users/Prityanshu#4167" title="Let's chat on Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+  </a>
 </p>
 
 ---
