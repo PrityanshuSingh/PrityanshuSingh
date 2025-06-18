@@ -93,6 +93,4 @@ const prityanshu = {
   <img alt="Pacman graph" src="https://raw.githubusercontent.com/PrityanshuSingh/PrityanshuSingh/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/PrityanshuSingh/PrityanshuSingh/output/snake.svg" alt="Snake animation" />
-
 ---
