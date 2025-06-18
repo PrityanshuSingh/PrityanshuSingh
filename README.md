@@ -40,13 +40,6 @@ const prityanshu = {
 - Top Finalists in 3+ national hackathons
 - Open source contributor in Hacktoberfest, GSSOC
 
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+I+Love&lineHeight=35&fontSize=13&skills=TypeScript,NextJS,Tailwind,React,NodeJS,Flask,Docker,AWS,Go,Python,GraphQL&width=1000" />
-</p>
 
 ---
 
