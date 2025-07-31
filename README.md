@@ -36,7 +36,7 @@ const prityanshu = {
 - Building production-grade, scalable cloud systems
 - Recently built **TBO-One**, an AI-powered CRM
 - Created Next.js + Redis backed GraphQL CRM APIs in Go
-- Dev at **Hexbit.io** and **SDE Intern @ TBO.COM**
+- **Ex-SDE Intern @ TBO.COM** and Ex-Backend Dev at **Hexbit.io**
 - Top Finalists in 3+ national hackathons
 - Open source contributor in Hacktoberfest, GSSOC
 
